@@ -12,6 +12,7 @@ Enter a name for your environment and press Enter.
 Wait for Visual Studio Code to create the environment.
 You can also create a new virtual environment directly in Visual Studio by right-clicking on “Python Environments” in Solution Explorer and selecting “Add Environment”
 or selecting “Add Environment” from the environments drop-down list on the Python toolbar 1.
+Git bash = source .venv/Scripts/activate
 """
 
 # Step 1: Tensors
